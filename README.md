@@ -1,5 +1,9 @@
 # Smart Irrigation System 
 
+Live Demo:
+https://advanturegam-olp2uurniweg5my7jfawhc.streamlit.app/
+
+
 An AI-powered Smart Irrigation System developed using Python, Machine Learning, and Streamlit to predict whether crops need watering based on soil and environmental conditions.
 
 ---
